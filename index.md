@@ -20,6 +20,10 @@ Mohammad kachuee is very smart.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+```js
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fmkachuee%2Fmkachuee.github.io%2Fmaster%2Fcitations.bib&jsonp=1"></script>
+```
+
 ### [](#header-3)Header 3
 
 ```js
