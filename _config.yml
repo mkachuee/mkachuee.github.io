@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: Mohammad Kachuee
+description: UCLA Ph.D.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
