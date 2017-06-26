@@ -15,28 +15,23 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
-        {% if site.show_downloads %}
           <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+              <li><a href="https://scholar.google.com/citations?user=GJ1sDlEAAAAJ&hl=en"><strong>Google Scholar</strong></a></li>
+            <li><a href="http://dblp.uni-trier.de/search?q=mohammad%20kachuee"><strong>DBLP</strong></a></li>
+            <li><a href="https://github.com/mkachuee"><strong>GitHub</strong></a></li>
           </ul>
-        {% endif %}
+
+        <p>{{ site.description | default: Null }}</p>
+        
+        <!--<h2>Contact Information</h2>-->
+        <p>&#9993; {{ site.email | default: Null }}</p>
+
       </header>
       <section>
-		<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fmkachuee%2Fmkachuee.github.io%2Fmaster%2Fcitations.bib&jsonp=1"></script>
+		
       {{ content }}
-
+	<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fmkachuee%2Fmkachuee.github.io%2Fmaster%2Fcitations.bib&jsonp=1"></script>
       </section>
       <footer>
         {% if site.github.is_project_page %}
