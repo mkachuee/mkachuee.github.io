@@ -5,7 +5,7 @@ layout: default
 ---
 
 ## About
-My name is Mohammad Kachuee. I am a PhD student at the [University of Californial Los Agneles (UCLA)](http://www.ucla.edu/) [Computer Sicence Department](http://www.cs.ucla.edu/).
+My name is Mohammad Kachuee. I am a PhD student at the [University of Californial Los Angeles (UCLA)](http://www.ucla.edu/) [Computer Sicence Department](http://www.cs.ucla.edu/).
 
 ---
 
