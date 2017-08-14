@@ -5,7 +5,7 @@ layout: default
 ---
 
 ## About
-My name is Mohammad Kachuee. I am a PhD student at the [University of Californial Los Angeles (UCLA)](http://www.ucla.edu/) [Computer Sicence Department](http://www.cs.ucla.edu/).
+My name is Mohammad Kachuee. I am a PhD student at the [University of Californial Los Angeles (UCLA)](http://www.ucla.edu/) [Computer Sicence Department](http://www.cs.ucla.edu/). I have recieved my BS and MS degrees from [Sharif University of Technology](http://sharif.edu/) in [Electrical Engineering](http://ee.sharif.edu/). My current research interests include mobile health, data mining, health analytics, and designing machine learning algorithms for health-care applications.
 
 ---
 
