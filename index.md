@@ -19,15 +19,15 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 ## Projects
 
 <table>
-  <col width="50%">
-  <col width="50%">
+  <col width="30%">
+  <col width="70%">
 
 
   <tr>
-    <td width="40%">
+    <td>
       <img src="https://raw.githubusercontent.com/mkachuee/mkachuee.github.io/master/images/Project_DPFQ.png" alt="" style="width:250;height:250;">
     </td>
-    <td width="60%">
+    <td>
         <b> Context-Aware Feature Query to Improve the Prediction Performance </b><br />
       The decision to select which features to use and query can be effectively addressed based on the available features or context. In this project we explore a novel approach based on denoising autoencoders and sensitivity analysis in neural networks to efficiently query for unknown features given the context. In this setting, a denoising autoencoder is responsible for handling unknown features. On the other hand, the sensitivity of output predictions with respect to each unknown feature is used as a measure of feature importance.
     </td>
@@ -35,12 +35,12 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 
   
   <tr>
-    <td width="40%">
+    <td>
       <img src="https://raw.githubusercontent.com/mkachuee/mkachuee.github.io/master/images/Project_SCI.png" alt="" style="width:250;height:250;">
     </td>
-    <td width="60%">
+    <td>
       <b> Prediction of Epidural Stimulation Outcome in Spinal Cord Injury Patients </b><br />
-        Recent studies suggest that epidural stimulation of the spinal cord could increase the motor pattern both in motor and sensory complete spinal cord injury (SCI) patients. However, choosing the optimal epidural stimulation variables, such as the frequency, intensity, and location of the stimulation, significantly affects maximal motor functionality. This work presents a novel technique using machine learning methods to predict the functionality of a SCI patient after epidural stimulation.
+       Recent studies suggest that epidural stimulation of the spinal cord could increase the motor pattern both in motor and sensory complete spinal cord injury (SCI) patients. However, choosing the optimal epidural stimulation variables, such as the frequency, intensity, and location of the stimulation, significantly affects maximal motor functionality. This work presents a novel technique using machine learning methods to predict the functionality of a SCI patient after epidural stimulation.
     </td>
   </tr>
   
