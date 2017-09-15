@@ -23,7 +23,7 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 
 * A. E. Dastjerdi, **M. Kachuee**, M. Shabany, Nonlinear Cuff-less Blood Pressure Estimation of Healthy Subjects Using Pulse Transit Time and Arrival Time, IEEE Transactions on Instrumentation & Measurement (TIM), 2017. [IEEEexplore](https://doi.org/10.1109/TIM.2017.2745081)
 
-* **M. Kachuee**, L. Moore, T. Homsey, H. G. Damavandi, B. Moatamed, A. Hosseini, R. Huang, J. Leiter, D. Lu, M. Sarrafzadeh, An Active Learning Based Prediction of Epidural Stimulation Outcome in Spinal Cord Injury Patients Using Dynamic Sample weighting, IEEE International Conference on Healthcare Informatics (ICHI), 2017. (to appear), [Poster](https://github.com/mkachuee/mkachuee.github.io/raw/master/papers/Poster_SCI.pdf)
+* **M. Kachuee**, L. Moore, T. Homsey, H. G. Damavandi, B. Moatamed, A. Hosseini, R. Huang, J. Leiter, D. Lu, M. Sarrafzadeh, An Active Learning Based Prediction of Epidural Stimulation Outcome in Spinal Cord Injury Patients Using Dynamic Sample weighting, IEEE International Conference on Healthcare Informatics (ICHI), 2017. [IEEExplore](https://doi.org/10.1109/ICHI.2017.38), [Poster](https://github.com/mkachuee/mkachuee.github.io/raw/master/papers/Poster_SCI.pdf)
 
 * A. E. Dastjerdi, **M. Kachuee**, M. Shabany, Non-Invasive Blood Pressure Estimation Using Phonocardiogram, IEEE International Symposium on Circuits and Systems (ISCAS), 2017. (to appear)
 
