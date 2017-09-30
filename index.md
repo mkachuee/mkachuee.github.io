@@ -21,11 +21,11 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 
 * **M. Kachuee**, A. Hosseini, B. Moatamed, S. Darabi, M. Sarrafzadeh, Context-Aware Feature Query to Improve the Prediction Performance, IEEE GlobalSIP Symposium on Big Data Analytics for IoT Healthcare (GlobalSIP), 2017. (to appear)
 
-* A. E. Dastjerdi, **M. Kachuee**, M. Shabany, Nonlinear Cuff-less Blood Pressure Estimation of Healthy Subjects Using Pulse Transit Time and Arrival Time, IEEE Transactions on Instrumentation & Measurement (TIM), 2017. [IEEEexplore](https://doi.org/10.1109/TIM.2017.2745081)
+* A. Esmaili, **M. Kachuee**, M. Shabany, Nonlinear Cuff-less Blood Pressure Estimation of Healthy Subjects Using Pulse Transit Time and Arrival Time, IEEE Transactions on Instrumentation & Measurement (TIM), 2017. [IEEEexplore](https://doi.org/10.1109/TIM.2017.2745081)
 
 * **M. Kachuee**, L. Moore, T. Homsey, H. G. Damavandi, B. Moatamed, A. Hosseini, R. Huang, J. Leiter, D. Lu, M. Sarrafzadeh, An Active Learning Based Prediction of Epidural Stimulation Outcome in Spinal Cord Injury Patients Using Dynamic Sample weighting, IEEE International Conference on Healthcare Informatics (ICHI), 2017. [IEEExplore](https://doi.org/10.1109/ICHI.2017.38), [Poster](https://github.com/mkachuee/mkachuee.github.io/raw/master/papers/Poster_SCI.pdf)
 
-* A. E. Dastjerdi, **M. Kachuee**, M. Shabany, Non-Invasive Blood Pressure Estimation Using Phonocardiogram, IEEE International Symposium on Circuits and Systems (ISCAS), 2017. (to appear)
+* A. Esmaili, **M. Kachuee**, M. Shabany, Non-Invasive Blood Pressure Estimation Using Phonocardiogram, IEEE International Symposium on Circuits and Systems (ISCAS), 2017. [IEEEexplore](https://doi.org/10.1109/ISCAS.2017.8050240)
 
 * **M. Kachuee**, M. M. Kiani, H. Mohammadzade, M. Shabany, Cuff-Less Blood Pressure Estimation Algorithms for Continuous Health-Care Monitoring, IEEE Transactions on Biomedical Engineering (TBME), 2016. [IEEEexplore](http://dx.doi.org/10.1109/TBME.2016.2580904), [Paper](https://github.com/mkachuee/mkachuee.github.io/blob/master/papers/Paper_TBME2016.pdf), [Presentation](https://github.com/mkachuee/mkachuee.github.io/blob/master/papers/Presentation_TBME2016.pdf)
 
