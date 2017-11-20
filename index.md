@@ -22,7 +22,7 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 * **M. Kachuee**, A. Hosseini, B. Moatamed, S. Darabi, M. Sarrafzadeh, Context-Aware Feature Query to Improve the Prediction Performance, IEEE GlobalSIP Symposium on Big Data Analytics for IoT Healthcare (GlobalSIP), 2017. (to appear)
 
 * Babak Moatamed, Sajad Darabi, Migyeong Gwak, **Mohammad Kachuee**, Casey Metoyer, Mike Linn, Majid Sarrafzadeh
-Sport Analytics Platform for Athletic Readiness Assessment, IEEE-NIH 2017 Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies (HI-POCT 2017). (to appear)
+Sport Analytics Platform for Athletic Readiness Assessment, IEEE-NIH 2017 Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies (HI-POCT), 2017. (to appear)
 
 * A. Esmaili, **M. Kachuee**, M. Shabany, Nonlinear Cuff-less Blood Pressure Estimation of Healthy Subjects Using Pulse Transit Time and Arrival Time, IEEE Transactions on Instrumentation & Measurement (TIM), 2017. [IEEEexplore](https://doi.org/10.1109/TIM.2017.2745081), [Dataset](https://www.kaggle.com/mkachuee/noninvasivebp)
 
