@@ -35,3 +35,10 @@ Sport Analytics Platform for Athletic Readiness Assessment, IEEE-NIH 2017 Specia
 * S. Latifi, H. Golestani, **M. Kachuee**, H. Mohammadzade, M. Hashemi, GPU-based Acceleration of Deep Convolutional Neural Networks on Mobile Platforms, arXiv:1511.07376, 2015. [arXiv](http://arxiv.org/abs/1511.07376)
 
 * **M. Kachuee**, M. M. Kiani, H. Mohammadzade, M. Shabany, Cuff-Less High-Accuracy Calibration-Free Blood Pressure Estimation Using Pulse Transit Time, IEEE International Symposium on Circuits and Systems (ISCAS), 2015. [IEEEexplore](http://dx.doi.org/10.1109/TBME.2016.2580904), [Presentation](https://github.com/mkachuee/mkachuee.github.io/blob/master/papers/Presentation_ISCAS2015.pdf), [Dataset](https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation)
+
+---
+
+## Other Activities
+
+* I had the honor to present a lecture about deep learning and neural networks in the UCLA CS161 course: Introduction to Artificial Intelligence by Prof. Adnan Darwiche, Fall 2017. [Presentation](https://github.com/mkachuee/mkachuee.github.io/raw/master/presentations/Lec_161_NN.pdf)
+
