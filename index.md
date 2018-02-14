@@ -40,5 +40,5 @@ Sport Analytics Platform for Athletic Readiness Assessment, IEEE-NIH 2017 Specia
 
 ## Other Activities
 
-* I had the honor to present a lecture about deep learning and neural networks in the UCLA CS161 course: Introduction to Artificial Intelligence by Prof. Adnan Darwiche, Fall 2017. [Presentation](https://github.com/mkachuee/mkachuee.github.io/raw/master/presentations/Lec_161_NN.pdf)
+* I had the honor to present a lecture about deep learning and neural networks at the UCLA CS161 course: Introduction to Artificial Intelligence by Prof. Adnan Darwiche, Fall 2017. [Presentation](https://github.com/mkachuee/mkachuee.github.io/raw/master/presentations/Lec_161_NN.pdf)
 
