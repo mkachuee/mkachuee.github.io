@@ -19,6 +19,8 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 
 ## Publications
 
+* **M. Kachuee**, S. Fazeli, M. Sarrafzadeh, ECG Heartbeat Classification: A Deep Transferable Representation, IEEE International Conference on Healthcare Informatics (ICHI), 2018. [IEEExplore](10.1109/ICHI.2018.00092), [Dataset](https://www.kaggle.com/shayanfazeli/heartbeat)
+
 * **M. Kachuee**, A. Hosseini, B. Moatamed, S. Darabi, M. Sarrafzadeh, Context-Aware Feature Query to Improve the Prediction Performance, IEEE GlobalSIP Symposium on Signal and Information Processing (GlobalSIP), 2017. [IEEExplore](https://doi.org/10.1109/GlobalSIP.2017.8309078)
 
 * B. Moatamed, S. Darabi, M. Gwak, **M. Kachuee**, C. Metoyer, M. Linn, M. Sarrafzadeh
@@ -40,5 +42,10 @@ Sport Analytics Platform for Athletic Readiness Assessment, IEEE-NIH 2017 Specia
 
 ## Other Activities
 
+* I have served as a reviewer for IEEE Journal of Biomedical Health Informatics (JBHI) and IEEE Transactions on Biomedical Engineering (TBME).
+
 * I had the honor to present a lecture about deep learning and neural networks at the UCLA CS161 course: Introduction to Artificial Intelligence by Prof. Adnan Darwiche, Fall 2017. [Presentation](https://github.com/mkachuee/mkachuee.github.io/raw/master/presentations/Lec_161_NN.pdf)
 
+* I was teaching assistant for UCLA CS152 (Introductory Digital Design Laboratory) during Winter 2018.
+
+* I was teaching assistant for UCLA CS161 (Introduction to Artificial Intelligence) during Fall 2017.
