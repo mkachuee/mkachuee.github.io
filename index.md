@@ -19,6 +19,8 @@ My name is Mohammad Kachuee. I am a PhD student at the [University of California
 
 ## Publications
 
+* **M. Kachuee**, S. Darabi, B. Moatamed, M. Sarrafzadeh, Dynamic Feature Acquisition Using Denoising Autoencoders, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2018. [Paper](https://arxiv.org/pdf/1811.01249.pdf)
+
 * **M. Kachuee**, S. Fazeli, M. Sarrafzadeh, ECG Heartbeat Classification: A Deep Transferable Representation, IEEE International Conference on Healthcare Informatics (ICHI), 2018. [IEEExplore](https://doi.org/10.1109/ICHI.2018.00092), [Dataset](https://www.kaggle.com/shayanfazeli/heartbeat)
 
 * **M. Kachuee**, A. Hosseini, B. Moatamed, S. Darabi, M. Sarrafzadeh, Context-Aware Feature Query to Improve the Prediction Performance, IEEE GlobalSIP Symposium on Signal and Information Processing (GlobalSIP), 2017. [IEEExplore](https://doi.org/10.1109/GlobalSIP.2017.8309078)
