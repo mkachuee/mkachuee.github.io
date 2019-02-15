@@ -1,4 +1,8 @@
 ---
+redirect_to: "https://sites.google.com/view/mkachuee/home"
+---
+
+---
 layout: default
 ---
 
