@@ -6,4 +6,6 @@ theme: jekyll-theme-minimal
 email: mkachuee@cs.ucla.edu
 
 
-
+gems:
+  - jekyll-redirect-from
+  
